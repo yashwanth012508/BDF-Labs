@@ -1,0 +1,28 @@
+{
+  "name": "lab-03",
+  "version": "1.0.0",
+  "description": "Backend Development Fundamentals - Lab 3: REST API, Query Parameters, Validation and Debugging",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "sqlite",
+    "rest-api",
+    "query-parameters",
+    "validation",
+    "debugging"
+  ],
+  "author": "Pujari Sai Yashwanth (252U1R9133)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

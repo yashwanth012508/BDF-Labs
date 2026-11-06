@@ -1,0 +1,17 @@
+# Screenshots Directory
+# Place the 15 required screenshots here:
+# 01_server_running.png
+# 02_database_records.png
+# 03_get_all_books.png
+# 04_search_books.png
+# 05_sort_books.png
+# 06_filter_price.png
+# 07_pagination.png
+# 08_get_single_book.png
+# 09_book_not_found.png
+# 10_add_book_success.png
+# 11_add_book_validation.png
+# 12_update_book_success.png
+# 13_update_book_not_found.png
+# 14_delete_book_success.png
+# 15_delete_book_not_found.png
